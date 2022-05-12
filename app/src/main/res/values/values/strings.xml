@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">OSMTest</string>
+    <string name="date_picker_dialog_title">Sanani kiritish</string>
+    <string name="date">Sana</string>
+    <string name="date_f">Sana: %1$s</string>
+    <string name="internet">Internet</string>
+    <string name="server">Server</string>
+    <string name="gps">Gps</string>
+    <string name="zero">0</string>
+    <string name="zero_distance">0 м</string>
+    <string name="zero_min">0 min</string>
+    <string name="zero_price">0 so\'m</string>
+    <string name="price_f">%1$s so\'m</string>
+    <string name="minute_f">%1$s min</string>
+    <string name="hour">soat</string>
+    <string name="minute">min</string>
+    <string name="unit_meter">m</string>
+    <string name="unit_kilometer">km</string>
+    <string name="accuracy_value">Точность: %.3f</string>
+    <string name="speed_value">Скорость: %.2f</string>
+    <string name="no_internet_connection">INTERNETGA ULANMAGAN</string>
+    <string name="internet_connected">INTERNETGA ULANGAN</string>
+    <string name="server_connected">SERVERGA ULANGAN</string>
+    <string name="not_server_connected">SERVERGA ULANMAGAN</string>
+    <string name="gps_enabled">GPS ULANGAN</string>
+    <string name="gps_disabled">GPS ULANMAGAN</string>
+
+    <string name="gps_setting">GPS SOZLASH</string>
+    <string name="gps_setting_message">GPS YOQILMAGAN. SOZLASH TUGMASINI BOSIB GPS NI YOQING</string>
+
+    <string name="call">Qo\'ngiroq</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="took_client">Klientni oldim</string>
+    <string name="client_was_delivered">Olib bordim</string>
+    <string name="wait">Kutish</string>
+    <string name="wait_start">Boshlash</string>
+    <string name="navigation">Navigatsiya</string>
+    <string name="in_place">Men keldim</string>
+    <string name="settingsButton">SOZLASH</string>
+    <string name="cancelButton">BEKOR</string>
+    <string name="close">Yopish</string>
+
+    <string name="clear_order_list">RO\'YHATNI TOZALASH</string>
+    <string name="registration">Ro\'yhatdan otish</string>
+    <string name="unfinished">Tugatilmadi</string>
+    <string name="finished">Tugatildi</string>
+    <string name="canceled">Bekor qilindi</string>
+    <string name="i_am">Man</string>
+    <string name="name">Ism</string>
+    <string name="phone_number">Telefon</string>
+    <string name="car_number">Mashina raqami</string>
+    <string name="car_type">Mashina turi</string>
+    <string name="car_color">Mashina rangi: Sariq</string>
+    <string name="yellow">Sariq</string>
+    <string name="save">Saqlash</string>
+    <string name="done">Tayor</string>
+    <string name="settings">Sozlash</string>
+    <string name="send_the_first_sms">Klientni olganda sms yuborish</string>
+    <string name="send_the_second_sms">Klientni olib borganda sms yuborish</string>
+    <string name="yes">Ha</string>
+    <string name="no">Yo\'q</string>
+    <string name="yes_button">HA</string>
+    <string name="no_button">YO\'Q</string>
+    <string name="total_successfully_order_count">Bajarilgan buyurtmalar soni:</string>
+    <string name="total_money">Jami kira haqi:</string>
+    <string name="total_distance_with_client">Jami masofa (mijoz bilan):</string>
+    <string name="total_time_with_client">Jami vaqt (mijoz bilan):</string>
+    <string name="distance">Masofa</string>
+    <string name="time">Vaqt</string>
+    <string name="exit">CHIQISH</string>
+    <string name="menu">MENU</string>
+    <string name="map">Harita</string>
+    <string name="download_audio">Audiolarni yuklash</string>
+    <string name="balance">Balans</string>
+    <string name="rate">Ta\'rif</string>
+    <string name="orders">Buyurtmalar</string>
+    <string name="statistics">Statistika</string>
+    <string name="app_about">Ishlab chiqaruvchi</string>
+    <string name="exit_application">Dasturdan chiqish?</string>
+    <string name="status_balance">Hisob holati</string>
+    <string name="confirm_exit">Chiqish uchun \"Ha\" ni bosing!</string>
+    <string name="confirm_clear_order_list">Tozalash uchun \"Ha\" ni bosing!</string>
+    <string name="ok">OK</string>
+    <string name="show_tariff">
+        "Minimalka : %1$s so'm"
+        "\nMinimal masofa : %2$s km"
+        "\n1 km : %3$s so'm (%4$skm dan keyingi har bir km)"
+        "\n1 daqiqa : %5$s so'm (mijozni olgandan keyin)"
+    </string>
+    <string name="show_app_about">
+        "\"Mustafo software\" MChJ,"
+        "\nweb sayt: https://a1tech.uz, 2012 yil,"
+        "\ndastur versiya: %1$s"
+    </string>
+    <string name="show_balance">
+        "Vip : %1$s"
+        "\nBalans : %2$s so'm"
+        "\nKun : %3$s"
+    </string>
+    <string name="take_order_sms">Hurmetli jolawshi ! Sizin buyirtpaniz qabil qilindi. TAXI  «QAREKEN>. siz tanlagan taksi. Bizin qisqa nomerimiz 1068. Sizge haq jol tileymiz. %1$s</string>
+    <string name="client_was_delivered_sms">Hurmetli jolawshi ! Bizdi tanlaganiniz ushin raxmet.  TAXI «QAREKEN» 1068. Har dayim xizmetinizde.</string>
+    <!--    <string name="take_order_sms">Salom hurmatli mijoz Sizning buyurtmangiz qabul qilindi 5–7 daqiqada aytgan joyingizga Bizning mashina boradi. %1$s</string>-->
+    <!--    <string name="client_was_delivered_sms">Hurmatli mijoz Sizning hisob %1$s so\'m. Bizni tanlaganingiz uchun hursandmiz. %2$s doim SIZning xizmatingizda</string>-->
+    <string name="balance_is_zero">Hisobingizda mablag\' tugadi, iltimos hisobingizni to\'ldiring.</string>
+    <string name="saved">Saqlandi</string>
+    <string name="not_saved">Saqlanmadi</string>
+    <string name="fill_in_all_fields">Iltimos, barcha maydonlarni to\'ldiring</string>
+    <string name="client_was_delivered_title">Klient manzilga yetib keldi</string>
+    <string name="client_was_delivered_msg">%1$s | %2$s min | Kutish vaqti %3$s min | to\'lovga %4$s so\'m</string>
+    <string name="waiting_time">Kutish vaqti</string>
+    <string name="address_take_order">TAXI YULGA CHIQQAN JOYI</string>
+    <string name="address_take_client">TAXI KLIENTNI OLGAN JOYI</string>
+    <string name="select_date">Sana ni tanlang</string>
+    <string name="order_delivered">Buyurtma tugallangan</string>
+    <string name="order_was_accepted">BUYURTMA BOSHQA HAYDOVCHIDA</string>
+    <string name="app_not_installed_you_want_install">Sizning telefoningizda "%1$s" o\'rnatilmagan, ilovani o\'rnatishni xohlaysizmi?</string>
+    <string name="install">O\'rnatish</string>
+    <string name="wrong_phone_number">Telefon raqamingizni berilgan shaklda kiriting +998(XX)XXX-XX-XX</string>
+    <string name="loading">Yuklanmoqda…</string>
+
+    <string name="language">Til</string>
+    <string name="uzbek">Uzbek</string>
+    <string name="russia">Русский</string>
+
+    <string name="google_maps">Карты Google</string>
+    <string name="yandex_navigation">Яндекс.Навигатор</string>
+    <string name="could_not_create_route">Yo\'nalishni qurishda xatolik</string>
+    <string name="retry">Qayta urinish</string>
+    <string name="tariff_not_loaded">Tarif yuklanmagan</string>
+    <string name="not_enough_sat_count">Спутники недоступны</string>
+    <string name="disable_fake_gps">Отключите опцию фиктивное местоположение в разделе настройки - для разработчиков</string>
+    <string name="fake_coord_ignored">Игнорируем фиктивную координату</string>
+    <string name="cash">Naqd pul</string>
+    <string name="card">Plastik karta</string>
+    <string name="paid">To\'landi</string>
+    <string name="w_continue">Davom etish</string>
+    <string name="payment_sum">To\'lov so\'mmasi</string>
+    <string name="balance_payment">Hisobni to\'ldirish</string>
+    <string name="theme">Dekoratsiya</string>
+    <string name="theme_day">Kungi</string>
+    <string name="theme_night">Tungi</string>
+    <string name="get_started">Ishni boshlash</string>
+    <string name="permission_denied_explanation">Разрешение было отклонено, но оно необходимо для основных функций.</string>
+    <string name="permission_rationale">
+        Location permission is needed for core functionality
+    </string>
+    <string name="select_server">Serverni tanlang</string>
+</resources>

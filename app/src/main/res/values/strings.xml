@@ -1,0 +1,19 @@
+<resources>
+    <string name="title_activity_maps">test GoogleMap vs OSM</string>
+    <string name="app_name">test GoogleMap vs OSM</string>
+    <string name="manzilga_yetib_kelindi">MANZILGA YETIB KELINDI</string>
+    <string name="yolgon_chaqiruv">Yolg\'on chaqiruv</string>
+    <string name="Saqlash">Saqlash</string>
+    <string name="chaqiruv">CHAQIRUV</string>
+    <string name="o_zaro_kelishmovchilik">O\'ZARO KELISHMOVCHILIK</string>
+    <string name="todo">TODO</string>
+    <string name="holat_haqida_malumot">Holat Haqida Malumot</string>
+    <string name="xavfsiz_hayot">Xavfsiz Hayot</string>
+    <string name="havfsiz_hayot">HAVFSIZ HAYOT</string>
+    <string name="make_sure_wifi_and_cellular_ndata_is_turned_on_and_try_again">Make sure wifi and cellular\ndata is turned on and try again</string>
+    <string name="oops_no_internet_connection">Oops, No Internet Connection</string>
+    <string name="select">Qarshilik</string>
+    <string name="select1">Holat</string>
+    <string name="select2">Qo\'llangan Chora</string>
+    <string name="xasiz_hayot">Xasiz hayot</string>
+</resources>

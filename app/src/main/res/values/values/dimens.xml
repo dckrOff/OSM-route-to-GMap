@@ -1,0 +1,16 @@
+<!--
+  ~ This is the source code of A1TAXI Driver for Android.
+  ~ Copyright Matnazarov Islom, 2017-2018.
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="my_item_horizontal_padding">5dp</dimen>
+    <dimen name="my_item_vertical_padding">3dp</dimen>
+
+    <dimen name="actionBarSize">40dp</dimen>
+    <dimen name="actionBarTextSize">20sp</dimen>
+</resources>
